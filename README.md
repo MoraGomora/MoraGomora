@@ -47,7 +47,8 @@
 
 | 🌐 | Контакт |
 |----|---------|
-| 📬 | Telegram: [@Modxnn](https://t.me/modxnn) |
+| 📬 | Telegram (Личные сообщения): [@Modxnn](https://t.me/modxnn) |
+| 📬 | Telegram (Канал): [@tut_zhivet_otbros](https://t.me/tut_zhivet_otbros) |
 | 💻 | GitHub: [github.com/MoraGomora](https://github.com/MoraGomora) |
 
 ### ⚠️ Важно
@@ -104,7 +105,8 @@
 
 | 🌐 | Contact |
 |----|---------|
-| 📬 | Telegram: [@Modxnn](https://t.me/modxnn) |
+| 📬 | Telegram (Private Messages): [@Modxnn](https://t.me/modxnn) |
+| 📬 | Telegram (Channel): [@tut_zhivet_otbros](https://t.me/tut_zhivet_otbros) |
 | 💻 | GitHub: [github.com/MoraGomora](https://github.com/MoraGomora) |
 
 ### ⚠️ It's important
